@@ -1,4 +1,4 @@
-# dio-live-dynamodb
+# Desafio de Projeto DIO - Boas Práticas DynamoDB
 Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB. Utilizado no Desafio de Projeto Boas Práticas com DynamoDB do bootcamp Banco PAN Java Developer.
 
 ### Serviços utilizados
