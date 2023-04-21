@@ -7,6 +7,7 @@ Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB. Utili
 
 ### Comandos utilizados:
 
+Obs.: Se utilizado o sistema operacional Windows, não deve-se realizar a quebra de linhas, visto que os parâmetros não seriam reconhecidos.
 
 - Criar uma tabela
 
